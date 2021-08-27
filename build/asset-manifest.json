@@ -1,19 +1,19 @@
 {
   "files": {
     "main.css": "/about/static/css/main.72d1f559.chunk.css",
-    "main.js": "/about/static/js/main.ebc62b8c.chunk.js",
-    "main.js.map": "/about/static/js/main.ebc62b8c.chunk.js.map",
-    "runtime-main.js": "/about/static/js/runtime-main.12680d2d.js",
-    "runtime-main.js.map": "/about/static/js/runtime-main.12680d2d.js.map",
+    "main.js": "/about/static/js/main.ad8c4b4a.chunk.js",
+    "main.js.map": "/about/static/js/main.ad8c4b4a.chunk.js.map",
+    "runtime-main.js": "/about/static/js/runtime-main.73ebfdc8.js",
+    "runtime-main.js.map": "/about/static/js/runtime-main.73ebfdc8.js.map",
     "static/css/2.adb406d7.chunk.css": "/about/static/css/2.adb406d7.chunk.css",
-    "static/js/2.11d754e9.chunk.js": "/about/static/js/2.11d754e9.chunk.js",
-    "static/js/2.11d754e9.chunk.js.map": "/about/static/js/2.11d754e9.chunk.js.map",
-    "static/js/3.84123e5e.chunk.js": "/about/static/js/3.84123e5e.chunk.js",
-    "static/js/3.84123e5e.chunk.js.map": "/about/static/js/3.84123e5e.chunk.js.map",
+    "static/js/2.f560eb60.chunk.js": "/about/static/js/2.f560eb60.chunk.js",
+    "static/js/2.f560eb60.chunk.js.map": "/about/static/js/2.f560eb60.chunk.js.map",
+    "static/js/3.035b0af5.chunk.js": "/about/static/js/3.035b0af5.chunk.js",
+    "static/js/3.035b0af5.chunk.js.map": "/about/static/js/3.035b0af5.chunk.js.map",
     "index.html": "/about/index.html",
     "static/css/2.adb406d7.chunk.css.map": "/about/static/css/2.adb406d7.chunk.css.map",
     "static/css/main.72d1f559.chunk.css.map": "/about/static/css/main.72d1f559.chunk.css.map",
-    "static/js/2.11d754e9.chunk.js.LICENSE.txt": "/about/static/js/2.11d754e9.chunk.js.LICENSE.txt",
+    "static/js/2.f560eb60.chunk.js.LICENSE.txt": "/about/static/js/2.f560eb60.chunk.js.LICENSE.txt",
     "static/media/avatar-2.75d8f23e.png": "/about/static/media/avatar-2.75d8f23e.png",
     "static/media/avatar-4.f7fb7ed7.png": "/about/static/media/avatar-4.f7fb7ed7.png",
     "static/media/bayo2.29fc73c3.png": "/about/static/media/bayo2.29fc73c3.png",
@@ -27,10 +27,10 @@
     "static/media/ytlogo.e71352e7.png": "/about/static/media/ytlogo.e71352e7.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.12680d2d.js",
+    "static/js/runtime-main.73ebfdc8.js",
     "static/css/2.adb406d7.chunk.css",
-    "static/js/2.11d754e9.chunk.js",
+    "static/js/2.f560eb60.chunk.js",
     "static/css/main.72d1f559.chunk.css",
-    "static/js/main.ebc62b8c.chunk.js"
+    "static/js/main.ad8c4b4a.chunk.js"
   ]
 }
