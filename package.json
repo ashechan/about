@@ -1,6 +1,6 @@
 {
   "homepage": "https://ashechan.github.io/about/",
-  "name": "portfolio-project",
+  "name": "about",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
